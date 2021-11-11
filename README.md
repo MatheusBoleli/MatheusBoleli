@@ -12,7 +12,8 @@
 ## :books: I'm currently learning
 
 <img align="right" src="https://c.tenor.com/2MfphFNNUdkAAAAC/study.gif" height="200px" width="300px"/>
-<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="Math-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
 <br>
 
 ## :computer: Languages and Tools
