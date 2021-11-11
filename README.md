@@ -1,6 +1,5 @@
-### Olá! Meu nome é Matheus Boleli
 
-<h1 align:"center">Hellooo! :wave:, I'm Christian</h1>
+<h1 align:"center">Hellooo! :wave:, My name is Matheus</h1>
 
 <strong>I currently work as a data analyst but I looking for opportunities to become a front-end developer.</strong>
 
