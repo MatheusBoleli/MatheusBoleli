@@ -11,7 +11,7 @@
 
 ## :books: I'm currently learning
 
-<img align="center" src="https://c.tenor.com/2MfphFNNUdkAAAAC/study.gif" height="200px" width="300px"/>
+<img align="right" src="https://c.tenor.com/2MfphFNNUdkAAAAC/study.gif" height="200px" width="300px"/>
 <img align="center" alt="Math-Java" height="180"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="center" alt="Math-spring" height="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
