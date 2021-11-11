@@ -5,7 +5,7 @@
 
 ## :books: I'm currently learning
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="200px" width="300px"/>
+<img align="right" src="https://www.nyc.gr/" height="200px" width="300px"/>
  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
