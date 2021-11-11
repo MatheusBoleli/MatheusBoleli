@@ -14,8 +14,7 @@
 <img align="right" src="https://www.nyc.gr/" height="200px" width="300px"/>
 <img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <br>
 
 ## :computer: Languages and Tools
