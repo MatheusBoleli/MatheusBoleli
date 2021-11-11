@@ -1,7 +1,17 @@
 
-<h1 align:"center">Hellooo! :wave:, My name is Matheus</h1>
+<h1 align:"center"> :wave:, </h1>
 
 <strong>I currently work as a data analyst but I looking for opportunities to become a front-end developer.</strong>
+
+## Hellooo! My name is Matheus. I'm Back-End Developer and Data Analytics.
+
+<div align="center">
+  <a href="https://github.com/MatheusBoleli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBoleli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBoleli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 ## :books: I'm currently learning
 
