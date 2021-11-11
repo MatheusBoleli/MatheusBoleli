@@ -3,8 +3,8 @@
 
 <div align="left">
   <a href="https://github.com/MatheusBoleli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBoleli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBoleli&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBoleli&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBoleli&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 
@@ -31,7 +31,4 @@
 ## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rocha-de-deus-boleli-8b7624200)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBoleli&show_icons=true&theme=tokyonight&layout=compact)
 
