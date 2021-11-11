@@ -12,9 +12,9 @@
 ## :books: I'm currently learning
 
 <img align="right" src="https://www.nyc.gr/" height="200px" width="300px"/>
-<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <br>
 
 ## :computer: Languages and Tools
