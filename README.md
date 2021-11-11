@@ -14,7 +14,6 @@
 <img align="right" src="https://www.nyc.gr/" height="200px" width="300px"/>
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <br>
 
 ## :computer: Languages and Tools
