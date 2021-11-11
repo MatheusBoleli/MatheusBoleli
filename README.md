@@ -6,8 +6,7 @@
 ## :books: I'm currently learning
 
 <img align="right" src="https://www.nyc.gr/" height="200px" width="300px"/>
-<iframe src="https://giphy.com/embed/1qbuc9zsBIPoG6UefE" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/athens-new-york-college-greece-1qbuc9zsBIPoG6UefE">via GIPHY</a></p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <br>
