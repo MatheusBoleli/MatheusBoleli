@@ -11,7 +11,7 @@
 
 ## :books: I'm currently learning
 
-<img align="right" src="https://c.tenor.com/2MfphFNNUdkAAAAC/study.gif" height="200px" width="300px" style=border: 1px/>
+<img align="right" src="https://c.tenor.com/2MfphFNNUdkAAAAC/study.gif" height="200px" width="300px" border="5"/>
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <br>
