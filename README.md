@@ -25,7 +25,7 @@
 
 ## Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-rocha-de-deus-boleli-8b7624200)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-rocha-de-deus-boleli-8b7624200/)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBoleli&show_icons=true&theme=tokyonight&layout=compact)
