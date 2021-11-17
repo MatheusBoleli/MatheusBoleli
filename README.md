@@ -4,9 +4,8 @@
 <div align="center">
   <a href="https://github.com/MatheusBoleli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBoleli&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBoleli&layout=compact&langs_count=7&theme=dark"/><br>
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MatheusBoleli=CharalambosIoannou&theme=tokyonight)
 
 
 ## :books: I'm currently learning
