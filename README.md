@@ -1,5 +1,5 @@
 
-## Hellooo! My name is Matheus. I currently work as a Data Analyst but I looking for opportunities to become a Back-End developer..
+## Hellooo! My name is Matheus. I currently work as a Intern in a Test Automation Team, but I looking for learn about others technologies and tools..
 
 <div align="center">
   <a href="https://github.com/MatheusBoleli">
